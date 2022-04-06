@@ -1,9 +1,9 @@
 {
 	"name": "vscode-allofthem",
-	"displayName": "vscode-allofthem",
+	"displayName": "All Of Them",
 	"description": "Add Save All and Close All buttons to the editor",
 	"icon": "media/save-close-128.png",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"publisher": "cseelye",
 	"author": {
@@ -22,6 +22,13 @@
 	},
 	"categories": [
 		"Other"
+	],
+	"keywords": [
+		"save",
+		"close",
+		"save all",
+		"close all",
+		"saveall"
 	],
 	"main": "./dist/extension.js",
 	"activationEvents": [
