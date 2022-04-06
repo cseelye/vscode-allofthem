@@ -3,7 +3,7 @@
 	"displayName": "All Of Them",
 	"description": "Add Save All and Close All buttons to the editor",
 	"icon": "media/save-close-128.png",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"license": "MIT",
 	"publisher": "cseelye",
 	"author": {
